@@ -1,6 +1,15 @@
 # Office 365 Restoring Deleted Files
-# Recovery
-## Recover OneDrive for Business Files
+## Summary
+In this project we will recover deleted files for a user from **OneDrive** and a personal **SharePoint** site.
+
+OneDrive and SharePoint sites are both hosted in SharePoint online, but have different recycle bin locations.
+
+## Environments
+- Microsoft 365 Admin Center
+- SharePoint Admin Center
+
+## Recovery
+### Recover OneDrive for Business Files
 If user needs help recovering a deleted file from their OneDrive, we can recover that file for them.
 
 In the Microsoft 365 admin center we navigate to Active Users, then select the user facing the recovery issues and navigate to the OneDrive tab in the pop-up menu and select ```Create link to files```.
@@ -15,7 +24,7 @@ From here we can recover the user's files if the file was deleted from the user'
 
 If the recycle bin is **not** present, then we have to search for the deleted file in the **SharePoint site recycle bin**.
 
-## Recover SharePoint Site Files
+###S Recover SharePoint Site Files
 To recover deleted files from SharePoint, we go to the **Sharepoint admin center**. In the Microsoft 365 admin center we go to to:
 
 ```Admin centers > SharePoint```
