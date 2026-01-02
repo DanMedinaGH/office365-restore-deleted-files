@@ -5,7 +5,7 @@ In this project we will recover deleted files for a user from **OneDrive** and a
 OneDrive and SharePoint sites are both hosted in SharePoint online, but have different recycle bin locations.
 
 ## Acknowledgements
-This project was created with [Cobuman's](https://www.youtube.com/watch?v=rlc7kg080FI&list=PL4jgQJG6eMDPBHQ4UHueb1xoABkGO6WbQ) tutorial
+This project was created following [Cobuman's](https://www.youtube.com/watch?v=rlc7kg080FI&list=PL4jgQJG6eMDPBHQ4UHueb1xoABkGO6WbQ) tutorial.
 
 ## Environments
 - Microsoft 365 Admin Center
